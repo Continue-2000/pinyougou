@@ -1,0 +1,127 @@
+.register_body .w{
+    margin-top: 20px;
+    height: 522px; 
+    border: 1px solid #ececec;
+}
+.register_body .w .hd{
+    height: 40px;
+    padding: 0 10px;
+    line-height: 40px;
+    background-color: #ececec;
+    border: 1px solid #dddddd;
+}
+.register_body .w .hd>a{
+    font-size: 18px;
+    color: #333333;
+}
+.register_body .w .hd p{
+    float: right;
+    font-size: 14px;
+    color: #333;
+}
+.register_form{
+    width: 550px;
+    margin-left: 314px;
+    margin-top: 54px;
+    
+}
+.inputinfo ul li{
+    height: 36px;
+    margin-bottom: 20px;
+}
+.inputinfo ul li:last-child{
+    margin-bottom: 0;
+}
+.inputinfo ul li label{
+    float: right;
+    line-height: 36px;
+    height: 36px;
+    display: inline-block;
+    
+}
+.register_form .left{
+    float: left;
+  padding-right: 0;
+    height: 36px;
+    width: 80px;
+    
+}
+
+.register_form .inputinfo ul li>input{
+    float: left;
+    padding-left: 10px;
+    width: 240px;
+    height: 36px;
+    border: 1px solid #999999;
+}
+.show_register_error{
+    
+    float: left;
+    height: 36px;
+}
+.register_error{
+    float: left;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #df3033;
+    margin-top: 8px;
+    margin-left: 17px;
+    text-align: center;
+}
+.inputinfo ul li .show_register_error>label{
+    margin-left: 5px;
+ font-size: 12px;
+ color: #df3033;
+}
+.agreepolice{
+    position: relative;
+    margin-top: 43px;
+    margin-left: 84px;
+    height: 30px;
+    line-height: 30px;
+}
+.agreepolice .agreecheckbox{
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 5px;
+}
+.agreepolice>label{
+    font-size: 12px;
+    color: #4d4d4d;
+    margin-left: 27px;
+}
+.agreepolice>label a{
+    font-size: 12px;
+    color: #1ba1e6;
+}
+.submit{
+    margin-left: 96px;
+    margin-top: 50px;
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    font-size: 14px;
+    color: #fff;
+}
+.register_form .safe{
+    margin-right: 232px;
+    font-size: 12px;
+    color: #b2b2b2;
+}
+.register_form em{
+    font-size: 12px;
+    color: #ffffff;
+    padding: 0 12px;
+}
+.ruo{
+    margin-left: 10px;
+    background-color: #de1111;
+}
+.zhong{
+    background-color: #40b83f;
+}
+.qiang{
+    background-color: #f79100;
+}

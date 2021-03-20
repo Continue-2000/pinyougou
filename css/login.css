@@ -1,0 +1,134 @@
+.login_register_header{
+    height: 82px;
+    padding-top: 16px;
+}
+.login_body{
+   
+    height: 486px;
+    background-color: #7e00ff;
+}
+
+.login_body .w {
+    position: relative;
+    height: 486px;
+    background: url(../upload/login_img.png) no-repeat -363px 0;
+}
+.login_body .w .login_box{
+    position: absolute;
+    padding: 0 37px;
+    top: 63px;
+    right: 116px;
+    width: 380px;
+    height: 364px;
+    background-color: #ffffff;
+}
+.loginbox_top{
+    height: 63px;
+    padding-top: 22px;
+    
+}
+.loginbox_top ul li{
+    float: left;
+    width: 50%;
+
+   
+}
+.loginbox_top ul li a{
+    position: relative;
+    display: block;
+    font-size: 18px;
+    color: #666;
+    
+}
+.loginbox_top ul li:first-child a:after{
+    position:absolute;
+    content: "";
+    right: 0;
+    width: 1px;
+    height: 24px;
+    background-color: #cfcdcd;
+}
+.loginbox_top ul li:first-child{
+    padding-left: 10px;
+}
+.loginbox_top ul li:last-child{
+    padding-left: 66px;
+}
+.login_box .jianyi{
+    height: 26px;
+    line-height: 26px;
+    padding-left: 10px;
+    font-size: 12px;
+    color: #666666;
+    background-color: #fffdee;
+    border:1px solid #f5eecf;
+}
+.login_box  .image{
+    float: left;
+    width: 37px;
+    height: 34px;
+}
+.login_box  input{
+    float: left;
+    padding-left: 10px;
+    height: 36px;
+    width: 265px;
+}
+.login_box .login_input{
+    overflow: hidden;
+    height: 36px;
+    width: 100%;
+    margin-top: 10px; 
+    border:1px solid #cfcdcd;
+}
+
+.login_box .password{
+    margin-top: 16px;
+}
+.service{
+    margin-top: 20px;
+}
+.service input{
+  float: left;
+  margin-top: 2px;
+  width: 15px;
+  height: 15px;
+
+}
+.service p{
+    float: left;
+    margin-left: 6px;
+    font-size: 12px;
+    color: #b2b2b2;
+}
+
+.service a{  
+    display: block;
+    float: right;
+    font-size: 12px;
+    color: #333333;
+}
+.loginbtn{
+    margin-top: 20px;
+    width: 100%;
+    height: 41px;
+    color: #ffffff;
+    
+    background-color: #c81623;
+}
+.buttom{
+    margin-top: 30px;
+    height: 36px;
+}
+.buttom img{
+    height: 100%;
+    
+}
+.buttom a{
+    display: block;
+    float: right;
+    margin-top: 5px;
+    font-size: 14px;
+    color: #1474af;
+}
+
